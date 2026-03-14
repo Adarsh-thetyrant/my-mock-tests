@@ -1,0 +1,12 @@
+[
+{
+"question": "2 + 2 = ?",
+"options": ["2","3","4","5"],
+"answer": "4"
+},
+{
+"question": "Derivative of x^2 ?",
+"options": ["x","2x","x^2","2"],
+"answer": "2x"
+}
+]
